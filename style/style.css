@@ -142,7 +142,7 @@ main a:hover {
     color: var(--cor1);
 }
 
-main > img {
+main img {
     width: 100%;
 }
 
