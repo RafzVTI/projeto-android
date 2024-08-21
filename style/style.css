@@ -90,7 +90,7 @@ nav {
     }
 
 main {
-    background-color: white;
+    background-color: rgb(255, 0, 0);
     min-width: 300px;
     max-width: 1000px;
     margin: auto; 
